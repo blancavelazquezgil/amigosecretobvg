@@ -40,10 +40,8 @@ Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará a
 
 ## Prueba de la aplicación
 
-Para probar/jugar **Amigo Secreto** puede hacerlo en el siguiente enlace.
-```bash 
-https://blancavelazquezgil.github.io/amigosecretobvg/
-``` 
+Para probar/jugar **Amigo Secreto** puede hacerlo en el siguiente [enlace](https://blancavelazquezgil.github.io/amigosecretobvg/)  
+Lo anterior fue realizado con **GitHub Pages**  
 
 ## Clonar el repositorio
 
